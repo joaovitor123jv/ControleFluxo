@@ -1,0 +1,8 @@
+ __________________________________________________________
+| Digite "0" Para SAIR                                         |
+| Digite "1" Para Adicionar contas a pagar             |        |
+| Digite "2" Para declarar recebimeto de salário        /       |
+| Digite "3" Para declarar conta paga                    wer      |
+| Digite "4" Para consultar seu Saldo atual                    |
+| Digite outro numero para acessar a CALCULADORA               |
+|_________________________________________________________    _|

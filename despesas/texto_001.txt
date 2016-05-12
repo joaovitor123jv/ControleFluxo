@@ -1,0 +1,4 @@
+	Digite o valor da conta que terá que pagar
+(Esse valor pode ser escrito de duas formas:
+		→Pode ser um número inteiro
+		→Pode ser um número real(no lugar de ",", use "."

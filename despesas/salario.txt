@@ -1,0 +1,3 @@
+***Insira o salário recebido
+	(Coloque "." no lugar de ",", caso o valor não seja inteiro)
+
